@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Koulen&color=8AF7EF&background=5F836800&center=true&lines=There+is+always+a+better+way.)](https://git.io/typing-svg)
+<div align='center'>
+  <img hegiht='137px src="https://readme-typing-svg.herokuapp.com?font=Koulen&color=8AF7EF&background=5F836800&center=true&lines=There+is+always+a+better+way."/>
+</div>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LikeFrost&show_icons=true&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
 ![Metrics](https://metrics.lecoq.io/LikeFrost?template=classic&config.timezone=Asia%2FShanghai)
 
