@@ -1,3 +1,4 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LikeFrost)](https://github.com/anuraghazra/github-readme-stats)
 ![Metrics](https://metrics.lecoq.io/LikeFrost?template=classic&config.timezone=Asia%2FShanghai)
 
 <!--
