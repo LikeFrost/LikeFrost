@@ -1,6 +1,6 @@
-<div align='center'>
-  <img hegiht='137px src="https://readme-typing-svg.herokuapp.com?font=Koulen&color=8AF7EF&background=5F836800&center=true&lines=There+is+always+a+better+way."/>
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Koulen&color=8AF7EF&background=5F836800&center=true&lines=There+is+always+a+better+way.&center=true&size=27">
+</h1>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LikeFrost&show_icons=true&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
 ![Metrics](https://metrics.lecoq.io/LikeFrost?template=classic&config.timezone=Asia%2FShanghai)
 
