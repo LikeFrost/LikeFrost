@@ -1,11 +1,7 @@
-# :wave:Hey there! I'm Like Frost
+<div style="display: flex;justify-content: center;align-items: center;">
+  <img src="./background.png" style="position:absolute;"/>
+  <h1 style="color:white">👋 Hey there! I'm Like Frost</h1>
+</div>
 
-### :raising_hand:关于自己
 
-- 
-
-### :wrench:技术栈
-
-### :feet:GitHub概览
-
-### :point_right:请联系我
+### :wave: About Me
