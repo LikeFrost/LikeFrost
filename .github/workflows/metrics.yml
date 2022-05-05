@@ -10,22 +10,19 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      # base metrics
+      - name: base_metrics
+        uses: lowlighter/metrics@latest
         with:
+          filename: base_metrics.svg
           # Your GitHub token
-          # The following scopes are required:
-          #  - public_access (default scope)
-          # The following additional scopes may be required:
-          #  - read:org  (for organization related metrics)
-          #  - read:user (for user related data)
-          #  - repo      (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
-
           # Options
           user: LikeFrost
           template: classic
-          base: ""
           config_timezone: Asia/Shanghai
+          committer_message: ":rocket: Update"
+          base: "header, activity, community, repositories"
           plugin_introduction: yes
           plugin_introduction_title: yes
           plugin_languages: yes
