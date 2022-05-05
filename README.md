@@ -28,8 +28,10 @@
 </div>
 
 ### :coffee:Connect with Me
-<div>
+<div align="center">
 <img src="https://img.shields.io/badge/-@LikeFrost-black?style=flat-square&logo=github" /> 
 <img src="https://img.shields.io/badge/-@Like Frost-black?style=flat-square&logo=zhihu" /> 
 <img src="https://img.shields.io/badge/-@Like Frost-black?style=flat-square&logo=sinaweibo&logoColor=red" />
 </div>
+
+<img src="./tail.png"/>
